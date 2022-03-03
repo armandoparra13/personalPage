@@ -2,13 +2,13 @@
     "experiences": [
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "subtitle": "Sharing Excess",
+            "workType": "Part-Time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Maintained Food Rescue App.",
+                "Helped create back-end API to help app run faster."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "09/2021 – Present"
         },
         {
             "title": "Software Engineer",
